@@ -1,0 +1,283 @@
+[2018-10-06 00:53:18.8107] [ERROR] System.ArgumentException: 指定されたオブジェクトはDBClassLib.SQLServer.DbTableBaseではありません。「DBClassLib.SQLServer.DbConnection」です。
+   場所 DBClassLib.SQLServer.DbTransaction.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTransaction.cs:行 164
+   場所 DBClassLib.SQLServer.DbConnection.CopyConnection(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 84
+   場所 DBClassLib.All.Base.DbConnection.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 105
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202 - Diary.Forms.FrmMain.DBLoad() System.ArgumentException: 指定されたオブジェクトはDBClassLib.SQLServer.DbTableBaseではありません。「DBClassLib.SQLServer.DbConnection」です。
+   場所 DBClassLib.SQLServer.DbTransaction.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTransaction.cs:行 164
+   場所 DBClassLib.SQLServer.DbConnection.CopyConnection(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 84
+   場所 DBClassLib.All.Base.DbConnection.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 105
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202
+[2018-10-06 00:53:22.7016] [ERROR] System.ArgumentException: 指定されたオブジェクトはDBClassLib.SQLServer.DbTransactionではありません。「DBClassLib.SQLServer.DbConnection」です。
+   場所 DBClassLib.SQLServer.DbTransaction.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTransaction.cs:行 164
+   場所 DBClassLib.SQLServer.DbConnection.CopyConnection(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 84
+   場所 DBClassLib.All.Base.DbConnection.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 105
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 255 - Diary.Forms.FrmMain.DBInsert() System.ArgumentException: 指定されたオブジェクトはDBClassLib.SQLServer.DbTransactionではありません。「DBClassLib.SQLServer.DbConnection」です。
+   場所 DBClassLib.SQLServer.DbTransaction.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTransaction.cs:行 164
+   場所 DBClassLib.SQLServer.DbConnection.CopyConnection(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 84
+   場所 DBClassLib.All.Base.DbConnection.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 105
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 255
+[2018-10-06 00:59:15.8205] [ERROR] System.ArgumentException: 指定されたオブジェクトはDbClassLib.SQLServer.DbTransactionではありません。「DBClassLib.SQLServer.DbConnection」です。
+   場所 DBClassLib.SQLServer.DbTransaction.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTransaction.cs:行 163
+   場所 DBClassLib.SQLServer.DbConnection.CopyConnection(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 84
+   場所 DBClassLib.All.Base.DbConnection.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 106
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202 - Diary.Forms.FrmMain.DBLoad() System.ArgumentException: 指定されたオブジェクトはDbClassLib.SQLServer.DbTransactionではありません。「DBClassLib.SQLServer.DbConnection」です。
+   場所 DBClassLib.SQLServer.DbTransaction.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTransaction.cs:行 163
+   場所 DBClassLib.SQLServer.DbConnection.CopyConnection(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 84
+   場所 DBClassLib.All.Base.DbConnection.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 106
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202
+[2018-10-06 00:59:19.1849] [ERROR] System.ArgumentException: 指定されたオブジェクトはDbClassLib.SQLServer.DbTransactionではありません。「DBClassLib.SQLServer.DbConnection」です。
+   場所 DBClassLib.SQLServer.DbTransaction.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTransaction.cs:行 163
+   場所 DBClassLib.SQLServer.DbConnection.CopyConnection(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 84
+   場所 DBClassLib.All.Base.DbConnection.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 106
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 255 - Diary.Forms.FrmMain.DBInsert() System.ArgumentException: 指定されたオブジェクトはDbClassLib.SQLServer.DbTransactionではありません。「DBClassLib.SQLServer.DbConnection」です。
+   場所 DBClassLib.SQLServer.DbTransaction.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTransaction.cs:行 163
+   場所 DBClassLib.SQLServer.DbConnection.CopyConnection(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 84
+   場所 DBClassLib.All.Base.DbConnection.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 106
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 255
+[2018-10-06 01:04:08.0286] [ERROR] System.ArgumentException: 指定されたオブジェクトはDbClassLib.SQLServer.DbTransactionではありません。「DBClassLib.SQLServer.DbConnection」です。
+   場所 DBClassLib.SQLServer.DbTransaction.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTransaction.cs:行 163
+   場所 DBClassLib.SQLServer.DbConnection.CopyConnection(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 84
+   場所 DBClassLib.All.Base.DbConnection.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 106
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202 - Diary.Forms.FrmMain.DBLoad() System.ArgumentException: 指定されたオブジェクトはDbClassLib.SQLServer.DbTransactionではありません。「DBClassLib.SQLServer.DbConnection」です。
+   場所 DBClassLib.SQLServer.DbTransaction.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTransaction.cs:行 163
+   場所 DBClassLib.SQLServer.DbConnection.CopyConnection(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 84
+   場所 DBClassLib.All.Base.DbConnection.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 106
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202
+[2018-10-06 01:04:10.3490] [ERROR] System.ArgumentException: 指定されたオブジェクトはDbClassLib.SQLServer.DbTransactionではありません。「DBClassLib.SQLServer.DbConnection」です。
+   場所 DBClassLib.SQLServer.DbTransaction.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTransaction.cs:行 163
+   場所 DBClassLib.SQLServer.DbConnection.CopyConnection(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 84
+   場所 DBClassLib.All.Base.DbConnection.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 106
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 255 - Diary.Forms.FrmMain.DBInsert() System.ArgumentException: 指定されたオブジェクトはDbClassLib.SQLServer.DbTransactionではありません。「DBClassLib.SQLServer.DbConnection」です。
+   場所 DBClassLib.SQLServer.DbTransaction.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTransaction.cs:行 163
+   場所 DBClassLib.SQLServer.DbConnection.CopyConnection(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 84
+   場所 DBClassLib.All.Base.DbConnection.Copy(Object to) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 106
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 255
+[2018-10-06 01:20:29.8750] [ERROR] System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202 - Diary.Forms.FrmMain.DBLoad() System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202
+[2018-10-06 01:28:37.7430] [ERROR] System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 202 - Diary.Forms.FrmMain.DBLoad() System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 202
+[2018-10-06 01:28:41.0491] [ERROR] System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 280 - Diary.Forms.FrmMain.DBInsert() System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 280
+[2018-10-06 02:22:27.5998] [ERROR] DBClassLib.DBClassLibException: Update文の実行に失敗しました。 ---> DBClassLib.DBClassLibException: データを取得しないSQL（Insert文・Update文・Delete文など）の実行に失敗しました。 ---> System.Data.SqlClient.SqlException: '(' 付近に不適切な構文があります。
+   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   場所 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 128
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 139
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 295
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 299
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 227
+   場所 Diary.Forms.FrmMain.DBUpdate(Int64 lngSeq, String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 367 - Diary.Forms.FrmMain.DBUpdate() DBClassLib.DBClassLibException: Update文の実行に失敗しました。 ---> DBClassLib.DBClassLibException: データを取得しないSQL（Insert文・Update文・Delete文など）の実行に失敗しました。 ---> System.Data.SqlClient.SqlException: '(' 付近に不適切な構文があります。
+   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   場所 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 128
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 139
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 295
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 299
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 227
+   場所 Diary.Forms.FrmMain.DBUpdate(Int64 lngSeq, String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 367
+[2018-10-06 02:24:27.1007] [ERROR] DBClassLib.DBClassLibException: Update文の実行に失敗しました。 ---> DBClassLib.DBClassLibException: データを取得しないSQL（Insert文・Update文・Delete文など）の実行に失敗しました。 ---> System.Data.SqlClient.SqlException: ',' 付近に不適切な構文があります。
+   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   場所 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 128
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 139
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 295
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 299
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 227
+   場所 Diary.Forms.FrmMain.DBUpdate(Int64 lngSeq, String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 367 - Diary.Forms.FrmMain.DBUpdate() DBClassLib.DBClassLibException: Update文の実行に失敗しました。 ---> DBClassLib.DBClassLibException: データを取得しないSQL（Insert文・Update文・Delete文など）の実行に失敗しました。 ---> System.Data.SqlClient.SqlException: ',' 付近に不適切な構文があります。
+   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   場所 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 128
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 139
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 295
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 299
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 227
+   場所 Diary.Forms.FrmMain.DBUpdate(Int64 lngSeq, String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 367
+[2018-10-06 02:26:03.7075] [ERROR] DBClassLib.DBClassLibException: Update文の実行に失敗しました。 ---> DBClassLib.DBClassLibException: データを取得しないSQL（Insert文・Update文・Delete文など）の実行に失敗しました。 ---> System.Data.SqlClient.SqlException: ',' 付近に不適切な構文があります。
+   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   場所 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 128
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 139
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 295
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 299
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 227
+   場所 Diary.Forms.FrmMain.DBUpdate(Int64 lngSeq, String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 367 - Diary.Forms.FrmMain.DBUpdate() DBClassLib.DBClassLibException: Update文の実行に失敗しました。 ---> DBClassLib.DBClassLibException: データを取得しないSQL（Insert文・Update文・Delete文など）の実行に失敗しました。 ---> System.Data.SqlClient.SqlException: ',' 付近に不適切な構文があります。
+   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   場所 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 128
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 139
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 295
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 299
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 227
+   場所 Diary.Forms.FrmMain.DBUpdate(Int64 lngSeq, String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 367
+[2018-10-06 02:28:06.7810] [ERROR] DBClassLib.DBClassLibException: Update文の実行に失敗しました。 ---> DBClassLib.DBClassLibException: データを取得しないSQL（Insert文・Update文・Delete文など）の実行に失敗しました。 ---> System.Data.SqlClient.SqlException: 'And' 付近に不適切な構文があります。
+   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   場所 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 128
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 139
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 295
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 299
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 227
+   場所 Diary.Forms.FrmMain.DBUpdate(Int64 lngSeq, String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 367 - Diary.Forms.FrmMain.DBUpdate() DBClassLib.DBClassLibException: Update文の実行に失敗しました。 ---> DBClassLib.DBClassLibException: データを取得しないSQL（Insert文・Update文・Delete文など）の実行に失敗しました。 ---> System.Data.SqlClient.SqlException: 'And' 付近に不適切な構文があります。
+   場所 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   場所 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   場所 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   場所 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   場所 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   場所 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 128
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 139
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 295
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate, String strWhere, Boolean blAcceptUpdatePrimaryKey) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 299
+   場所 DBClassLib.SQLServer.DbTableBase.Update(Dictionary`2 diUpdate) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 227
+   場所 Diary.Forms.FrmMain.DBUpdate(Int64 lngSeq, String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 367
+[2018-10-06 13:51:20.5974] [ERROR] DBClassLib.DBClassLibException: データベースのオープンに失敗しました。 ---> System.Data.SqlClient.SqlException: SQL Server への接続を確立しているときにネットワーク関連またはインスタンス固有のエラーが発生しました。サーバーが見つからないかアクセスできません。インスタンス名が正しいこと、および SQL Server がリモート接続を許可するように構成されていることを確認してください。 (provider: Named Pipes Provider, error: 40 - SQL Server への接続を開けませんでした) ---> System.ComponentModel.Win32Exception: ネットワーク パスが見つかりません。
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   場所 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   場所 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   場所 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   場所 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   場所 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   場所 System.Data.SqlClient.SqlConnection.Open()
+   場所 DBClassLib.SQLServer.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 50
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 56
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 226 - Diary.Forms.FrmMain.DBLoad() DBClassLib.DBClassLibException: データベースのオープンに失敗しました。 ---> System.Data.SqlClient.SqlException: SQL Server への接続を確立しているときにネットワーク関連またはインスタンス固有のエラーが発生しました。サーバーが見つからないかアクセスできません。インスタンス名が正しいこと、および SQL Server がリモート接続を許可するように構成されていることを確認してください。 (provider: Named Pipes Provider, error: 40 - SQL Server への接続を開けませんでした) ---> System.ComponentModel.Win32Exception: ネットワーク パスが見つかりません。
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   場所 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   場所 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   場所 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   場所 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   場所 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   場所 System.Data.SqlClient.SqlConnection.Open()
+   場所 DBClassLib.SQLServer.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 50
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 56
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 226
+[2018-10-06 13:55:14.5806] [ERROR] DBClassLib.DBClassLibException: データベースのオープンに失敗しました。 ---> System.Data.SqlClient.SqlException: このログインで要求されたデータベース "DBTest" を開けません。ログインに失敗しました。
+ユーザー 'sa' はログインできませんでした。
+   場所 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   場所 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   場所 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   場所 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   場所 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   場所 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   場所 System.Data.SqlClient.SqlConnection.Open()
+   場所 DBClassLib.SQLServer.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 50
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 56
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 226 - Diary.Forms.FrmMain.DBLoad() DBClassLib.DBClassLibException: データベースのオープンに失敗しました。 ---> System.Data.SqlClient.SqlException: このログインで要求されたデータベース "DBTest" を開けません。ログインに失敗しました。
+ユーザー 'sa' はログインできませんでした。
+   場所 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   場所 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   場所 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   場所 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   場所 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   場所 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   場所 System.Data.SqlClient.SqlConnection.Open()
+   場所 DBClassLib.SQLServer.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 50
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 56
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 226

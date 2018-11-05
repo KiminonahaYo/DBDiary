@@ -1,0 +1,123 @@
+[2018-10-06 01:21:10.3210] [ERROR] System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 46
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202 - Diary.Forms.FrmMain.DBLoad() System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 46
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202
+[2018-10-06 01:22:18.5813] [ERROR] System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 46
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202 - Diary.Forms.FrmMain.DBLoad() System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 46
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202
+[2018-10-06 01:22:33.2435] [ERROR] System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 46
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202 - Diary.Forms.FrmMain.DBLoad() System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 46
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202
+[2018-10-06 01:22:37.6314] [ERROR] System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbTransaction trans) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 54
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 280 - Diary.Forms.FrmMain.DBInsert() System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbTransaction trans) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 54
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 280
+[2018-10-06 01:25:57.9098] [ERROR] System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 46
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202 - Diary.Forms.FrmMain.DBLoad() System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 46
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202
+[2018-10-06 01:26:01.2036] [ERROR] System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbTransaction trans) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 54
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 280 - Diary.Forms.FrmMain.DBInsert() System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbTransaction trans) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 54
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 280
+[2018-10-06 01:26:28.9174] [ERROR] System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 46
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202 - Diary.Forms.FrmMain.DBLoad() System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbConnection con) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 46
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 202
+[2018-10-06 01:26:31.6927] [ERROR] System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbTransaction trans) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 54
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 280 - Diary.Forms.FrmMain.DBInsert() System.MissingMethodException: メソッドが見つかりません: 'Void DBClassLib.Common.Info.ColumnsInfo.Add(System.String, Boolean, Boolean, Boolean)'
+   場所 DiaryDBLib.Classes.ClsDiary.GetTableInfo()
+   場所 DiaryDBLib.Classes.ClsDiary..ctor(DbTransaction trans) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\DiaryDBLib\Classes\ClsDiary.cs:行 54
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\Form1.cs:行 280
+[2018-10-06 01:47:53.9983] [ERROR] DBClassLib.DBClassLibException: Insert文の実行に失敗しました。 ---> DBClassLib.DBClassLibException: データを取得しないSQL（Insert文・Update文・Delete文など）の実行に失敗しました。 ---> System.InvalidCastException: SqlParameterCollection は、SqlParameter[] オブジェクトではなく、Null でない SqlParameter 型オブジェクトのみ受け入れます。
+   場所 System.Data.SqlClient.SqlParameterCollection.ValidateType(Object value)
+   場所 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 121
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 139
+   場所 DBClassLib.SQLServer.DbTableBase.Insert(Dictionary`2 diInsert) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 211
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbTableBase.Insert(Dictionary`2 diInsert) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 215
+   場所 DBClassLib.All.Middle.DbTableBaseMiddle`1.Insert(Dictionary`2 diInsert) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Middle\DbTableBaseMiddle.cs:行 150
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 280 - Diary.Forms.FrmMain.DBInsert() DBClassLib.DBClassLibException: Insert文の実行に失敗しました。 ---> DBClassLib.DBClassLibException: データを取得しないSQL（Insert文・Update文・Delete文など）の実行に失敗しました。 ---> System.InvalidCastException: SqlParameterCollection は、SqlParameter[] オブジェクトではなく、Null でない SqlParameter 型オブジェクトのみ受け入れます。
+   場所 System.Data.SqlClient.SqlParameterCollection.ValidateType(Object value)
+   場所 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 121
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbAccessBase.ExecuteNonQuery(String strQuery) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbAccessBase.cs:行 139
+   場所 DBClassLib.SQLServer.DbTableBase.Insert(Dictionary`2 diInsert) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 211
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbTableBase.Insert(Dictionary`2 diInsert) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbTableBase.cs:行 215
+   場所 DBClassLib.All.Middle.DbTableBaseMiddle`1.Insert(Dictionary`2 diInsert) 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Middle\DbTableBaseMiddle.cs:行 150
+   場所 Diary.Forms.FrmMain.DBInsert(String strText) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 280
+[2018-10-06 01:57:25.4724] [ERROR] System.InvalidCastException: 指定されたキャストは有効ではありません。
+   場所 System.Data.DataRowExtensions.UnboxT`1.NullableField[TElem](Object value)
+   場所 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 231 - Diary.Forms.FrmMain.DBLoad() System.InvalidCastException: 指定されたキャストは有効ではありません。
+   場所 System.Data.DataRowExtensions.UnboxT`1.NullableField[TElem](Object value)
+   場所 System.Data.DataRowExtensions.Field[T](DataRow row, String columnName)
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 231
+[2018-10-06 13:56:45.2121] [ERROR] DBClassLib.DBClassLibException: データベースのオープンに失敗しました。 ---> System.Data.SqlClient.SqlException: このログインで要求されたデータベース "DBTest" を開けません。ログインに失敗しました。
+ユーザー 'sa' はログインできませんでした。
+   場所 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   場所 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   場所 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   場所 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   場所 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   場所 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   場所 System.Data.SqlClient.SqlConnection.Open()
+   場所 DBClassLib.SQLServer.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 50
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 56
+   場所 DBClassLib.All.Base.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 72
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 226 - Diary.Forms.FrmMain.DBLoad() DBClassLib.DBClassLibException: データベースのオープンに失敗しました。 ---> System.Data.SqlClient.SqlException: このログインで要求されたデータベース "DBTest" を開けません。ログインに失敗しました。
+ユーザー 'sa' はログインできませんでした。
+   場所 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   場所 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   場所 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   場所 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   場所 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   場所 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   場所 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   場所 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   場所 System.Data.SqlClient.SqlConnection.Open()
+   場所 DBClassLib.SQLServer.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 50
+   --- 内部例外スタック トレースの終わり ---
+   場所 DBClassLib.SQLServer.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\SQLServer\DbConnection.cs:行 56
+   場所 DBClassLib.All.Base.DbConnection.Open() 場所 P:\As_Drive\Data\プログラム\開発\ライブラリ\DBClassLib\DBClassLib\DBClassLib\All\Base\DbConnection.cs:行 72
+   場所 Diary.Forms.FrmMain.DBLoad(DateTime dtWriteDate, List`1& lstResult) 場所 P:\As_Drive\Data\プログラム\開発\開発物\日記\Diary\Diary\Diary\Forms\FrmMain.cs:行 226
